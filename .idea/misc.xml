@@ -1,0 +1,29 @@
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ecom-iliass/config-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-iliass/billing/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-iliass/gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-iliass/inventory-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-iliass/order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-iliass/customer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-aya/config-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-aya/customer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-aya/gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-aya/inventory-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-aya/order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ecom-aya/billing/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ecom-iliass/billing/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

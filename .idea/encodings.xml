@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ecom-aya/billing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecom-aya/config-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecom-aya/customer-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecom-aya/gateway-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecom-aya/inventory-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecom-aya/order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecom-iliass/billing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecom-iliass/config-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecom-iliass/customer-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecom-iliass/gateway-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecom-iliass/inventory-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ecom-iliass/order-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>
